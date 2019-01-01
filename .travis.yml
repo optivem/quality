@@ -1,2 +1,12 @@
 language: csharp
 solution: src/Optivem.Commons.Parsing.sln
+
+dotnet: 2.2
+mono: none
+sudo: required
+dist: xenial
+
+script:
+    - cd src
+    - dotnet restore
+    - dotnet build -c Release
