@@ -1,2 +1,2 @@
 language: csharp
-solution: src/Optivem.Parsing.sln
+solution: src/Optivem.Commons.Parsing.sln
