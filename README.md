@@ -1,4 +1,4 @@
-## Optivem.Commons.Parsing (C#.NET Core 2)
+## Optivem.Commons.Parsing (.NET Core 2)
 
 [![Build Status](https://img.shields.io/appveyor/ci/optivem/csharp-commons-parsing.svg)](https://ci.appveyor.com/project/optivem/csharp-commons-parsing)
 [![NuGet Release](https://img.shields.io/nuget/v/Optivem.Commons.Parsing.svg)](https://www.nuget.org/packages/Optivem.Commons.Parsing)
