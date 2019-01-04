@@ -4,7 +4,7 @@
 [![NuGet Release](https://img.shields.io/nuget/v/Optivem.Commons.Parsing.svg)](https://www.nuget.org/packages/Optivem.Commons.Parsing)
 [![MIT License](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
-Optivem.Commons.Parsing is a .NET Core 2.2 library providing interfaces for parsing.
+Optivem .NET Commons Parsing is a .NET Core 2.2 library providing interfaces for parsing.
 
 ## Installation
 
