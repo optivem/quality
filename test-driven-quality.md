@@ -1,0 +1,14 @@
+# Test Driven Quality
+
+## Test-Last Development
+
+At the beginning of development BA \(Business Analyst &gt;&gt;&gt; PO\) writes use cases for a given business goal, defines functional requirements represented by the main scenario \(the happy path\), as well as the alternative and exceptional scenarios. This already provides a high level insight to both the client and the developers, regarding what they need to implement. Suppose that in this team, that the sequence is business analysis, then development, and finally testing by the QA engineer. What will happen is that then suddenly at the end the QA engineer finds bugs, but it’s already the end of the Sprint, and developers are already working overtime to solve the bugs, and in the meantime they create additional bugs, so when they submit the fixes to the QA engineer, the QA engineer finds more bugs and then management comes in and says we’re already missing the release deadline, let’s ship it as is.
+
+Let’s take a step back and reflect on why this is happening. One reason is that developers are naturally inclined towards positive scenarios, the “happy path”, getting it working. They don’t naturally think too much about all the other cases that can occur. On the other hand, QA engineers tend to be more detail focused, are able to think of various scenarios , try to find ways to break the system. This means that given the same set of use cases from the BA, developers tend to focus on the primary flows, whereas QA tend to focus on the alternative and exceptional flows, and quite often,  reading much more fine grained composition than was defined by the BA, and even finding scenarios that were not noticed by the BA or developers. BA is more focused on understanding the business need and getting the solution in the right direction, but might not go into the level of detail and scenario analysis that QA goes into. 
+
+## Test-First Development
+
+So now let’s look at the situation where writing test cases is not done after development, but is done before development. This means that based on the use cases from the BA, QA would start writing test cases from the start, and developers would have access to test cases. This would provide developers with a higher opportunity to understand the expected behavior at a greater detail, to avoid misunderstandings later between developers and QA like is it a bug or a feature, but this is what I expected it to do.
+
+It would also strike up a conversation within the whole team, because the QA engineer would start asking questions, it would cause the BA to better refine the use cases, and it would bring everyone to a much more similar level of understanding 0 through test cases - them with use cases alone. Why? Because use cases are an abstract way of describing flows, whereas test cases are concrete examples which limit the number of misunderstandings that can occur.
+

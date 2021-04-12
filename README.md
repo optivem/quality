@@ -1,7 +1,6 @@
-## Introduction
+# Introduction
 
-Welcome. This project is under construction.
+Welcome to Software Quality! This e-book is designed to provide you with a foundation to the essence of software quality. Quite often, people see software quality as something that comes at the end, an output, that software quality is determined by QA Engineers. We hope that at the end of reading this e-book that you see quality in a whole other way, whereby quality is in-built.
 
-## License
+## 
 
-Licensed under the [MIT license](http://opensource.org/licenses/mit-license.php). Copyright © 2019 [Optivem](https://www.optivem.com/) All Rights Reserved.
