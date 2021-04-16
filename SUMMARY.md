@@ -5,7 +5,3 @@
 * [Test Driven Quality](test-driven-quality.md)
 * [License](license.md)
 
-## assets
-
-* [Untitled](assets/untitled.md)
-
