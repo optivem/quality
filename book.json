@@ -1,26 +1,21 @@
 {
+    "title": "Ttle",
+    "author": "Author",
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-                        "title": "Book",
-                        "author": "Author",
-                        "pluginsConfig": {
-                            "autocover": {
-                                "font": {
-                                    "size": null,
-                                    "family": "Impact",
-                                    "color": "#FFF"
-                                },
-                                "size": {
-                                    "w": 1800,
-                                    "h": 2360
-                                },
-                                "background": {
-                                    "color": "#09F"
-                                }
-                            }
-                        }
-                    }
+          "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
         }
     }
 }
