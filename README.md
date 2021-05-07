@@ -4,3 +4,9 @@ Welcome to Software Quality! This e-book is designed to provide you with a found
 
 ![](https://optivem.com/wp-content/uploads/2020/07/buildings.jpg)
 
+### License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+Copyright © 2021 [Optivem](https://www.optivem.com/) All Rights Reserved.
+
