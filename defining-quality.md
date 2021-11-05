@@ -18,6 +18,4 @@ Software with high internal quality takes a bit more upfront time but adds to de
 
 
 
-  
-
-
+\
